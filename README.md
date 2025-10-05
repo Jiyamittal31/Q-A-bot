@@ -1,13 +1,24 @@
-# AI Q&A Bot
-A chatbot built step by step using Hugging Face Transformers. Evolves from a basic terminal bot to a document-based study assistant.
-This project shows my journey of building an AI-powered Q&A chatbot.
+# 📖 StudyMate: AI-Powered Learning Assistant  
 
-## 🚀 Phases
-- **Phase 1:** Basic command-line chatbot.
-- **Phase 2:** Document-based Q&A (ask questions from PDF, DOCX, TXT).
-- **Phase 3:** GUI app with Streamlit.
+StudyMate is an **AI Study Companion** that helps students learn smarter.  
+Upload your notes and StudyMate will let you:  
 
-## 🛠️ How to Run
-```bash
-pip install -r requirements.txt
-python qa_bot_doc.py
+✅ Ask questions from your notes (Q&A Bot)  
+✅ Generate summaries for quick revision  
+✅ Auto-generate quizzes for practice  
+✅ Create a personalized study plan based on your exam date  
+
+Built using **Python, Hugging Face Transformers, FAISS, and Streamlit**.  
+
+---
+
+## ✨ Features
+- **📚 Q&A** → Ask any question from your uploaded PDF/DOCX/TXT notes.  
+- **📝 Summarizer** → Get concise summaries of long chapters.  
+- **🎯 Quiz Generator** → Auto-generate practice questions from notes.  
+- **📅 Study Planner** → Personalized daily study goals based on exam date.  
+
+---
+
+## 🚀 Demo (Live App)
+👉 [Try StudyMate Live on Hugging Face Spaces](https://huggingface.co/spaces/) *(Add your link here after deployment)*
